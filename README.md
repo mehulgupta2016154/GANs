@@ -1,2 +1,2 @@
 # GANs
-GANs practical implementation
+
